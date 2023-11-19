@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GolfECEngr82
+- 👀 I’m interested in text to Image, scraping, mind mapping, python, much more.
+- 🌱 I’m currently learning python, prompt creation, generating images from text, planning a website for myself.
+- 💞️ I’m looking to collaborate on something later. I have several projects in mind.
+- 📫 How to reach me. Later. I don't want to use any of my general purpose addresses.
